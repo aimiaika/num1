@@ -6,3 +6,4 @@ sarbazi
 kalantary
 disconnect
 boro baba
+talent
