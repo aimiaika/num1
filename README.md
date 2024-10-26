@@ -8,3 +8,4 @@ disconnect
 boro baba
 talent
 try
+fry
