@@ -10,3 +10,4 @@ talent
 try
 fry
 sign
+day
