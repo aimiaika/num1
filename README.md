@@ -11,3 +11,4 @@ try
 fry
 sign
 day
+soft
