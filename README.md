@@ -12,3 +12,4 @@ fry
 sign
 day
 soft
+loading
