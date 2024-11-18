@@ -30,3 +30,4 @@ ajab
 hkad
 kipo
 loip
+$GABBY 0.6
