@@ -34,3 +34,4 @@ $GABBY 0.6
 zen
 dr
 q1q2q3q
+بثقه
