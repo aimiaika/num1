@@ -40,3 +40,4 @@ chrono
 wha
 dis
 killl
+bsc
