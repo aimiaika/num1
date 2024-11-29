@@ -41,3 +41,4 @@ wha
 dis
 killl
 bsc
+تخنث
