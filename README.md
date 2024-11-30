@@ -42,3 +42,4 @@ dis
 killl
 bsc
 تخنث
+arte
