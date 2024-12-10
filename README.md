@@ -52,3 +52,4 @@ wall
 wallet
 man
 emroz
+kabo
