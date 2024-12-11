@@ -53,3 +53,4 @@ wallet
 man
 emroz
 kabo
+node
