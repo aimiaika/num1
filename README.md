@@ -66,3 +66,4 @@ har roz
 neck
 edite
 tall
+no
