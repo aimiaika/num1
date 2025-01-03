@@ -75,3 +75,4 @@ free
 not
 art
 lirt
+kyot
