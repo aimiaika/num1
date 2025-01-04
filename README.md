@@ -76,3 +76,4 @@ not
 art
 lirt
 kyot
+ذقش
