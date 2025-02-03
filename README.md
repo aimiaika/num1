@@ -105,3 +105,4 @@ loke
 74501
 lopi
 asdfg
+usdc
