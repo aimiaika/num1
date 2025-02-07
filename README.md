@@ -109,3 +109,4 @@ usdc
 ghjkl
 lont
 kuroru
+kote
