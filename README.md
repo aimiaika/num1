@@ -110,3 +110,4 @@ ghjkl
 lont
 kuroru
 kote
+bazi
