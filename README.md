@@ -123,3 +123,4 @@ goat
 man
 colab
 saret
+monad
