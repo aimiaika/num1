@@ -128,3 +128,4 @@ kiop
 germez
 boz
 ride
+یخهدل
