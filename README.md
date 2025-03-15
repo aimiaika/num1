@@ -145,3 +145,4 @@ noom
 xion
 rah
 dogin
+daily
