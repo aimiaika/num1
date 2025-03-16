@@ -146,3 +146,4 @@ xion
 rah
 dogin
 daily
+gacha
