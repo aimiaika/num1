@@ -147,3 +147,4 @@ rah
 dogin
 daily
 gacha
+فثسفه
