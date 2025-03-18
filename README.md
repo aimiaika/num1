@@ -148,3 +148,4 @@ dogin
 daily
 gacha
 فثسفه
+یشی
