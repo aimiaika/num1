@@ -149,3 +149,4 @@ daily
 gacha
 فثسفه
 یشی
+gmine
