@@ -150,3 +150,4 @@ gacha
 فثسفه
 یشی
 gmine
+takio
