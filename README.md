@@ -151,3 +151,4 @@ gacha
 یشی
 gmine
 takio
+jerty
