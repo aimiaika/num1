@@ -152,3 +152,4 @@ gacha
 gmine
 takio
 jerty
+mind
