@@ -160,3 +160,4 @@ read
 deep
 tokrag
 kelile
+aika
