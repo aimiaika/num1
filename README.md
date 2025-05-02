@@ -193,3 +193,4 @@ chi shode
 aserty
 hoooo
 game
+discord
