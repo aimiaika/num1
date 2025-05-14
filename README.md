@@ -205,3 +205,4 @@ hiter
 tert
 claim
 naoris
+khoda
