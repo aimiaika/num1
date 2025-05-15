@@ -206,3 +206,4 @@ tert
 claim
 naoris
 khoda
+yeroz
