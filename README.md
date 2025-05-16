@@ -207,3 +207,4 @@ claim
 naoris
 khoda
 yeroz
+mot
