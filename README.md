@@ -208,3 +208,4 @@ naoris
 khoda
 yeroz
 mot
+man tanha
