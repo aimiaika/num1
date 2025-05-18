@@ -209,3 +209,4 @@ khoda
 yeroz
 mot
 man tanha
+korn
