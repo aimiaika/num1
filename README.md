@@ -267,3 +267,4 @@ chess
 dgdsgs
 uhuhb
 tytyty
+7 day
